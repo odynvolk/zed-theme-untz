@@ -1,0 +1,12 @@
+{
+  "name": "Untz Untz Untz Theme",
+  "version": "0.1.0",
+  "authors": [
+    "Alexi Rahman"
+  ],
+  "description": "A dark theme which hopefully works in both dark and light surrounding environments. Might remind you of other themes.",
+  "repository": "https://github.com/odynvolk/zed-theme-untz-untz-untz",
+  "themes": {
+    "Bamm": "themes/untz-untz-untz.json"
+  }
+}
